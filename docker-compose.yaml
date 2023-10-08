@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+ flask-python-app:
+   restart: always
+   build:
+     context: .
+     dockerfile: Dockerfile
+   environment:
+     PORT: "5090"
+   ports:
+     - "5090:5090"
