@@ -1,5 +1,7 @@
 # flask-python-app
 
+```Variant: 8 % 3 = 2 (Користувацькі категорії витрат)```
+
 ## Instructions for running project locally
 This section provides instructions on how to set up and run locally flask-python-app using Docker and docker-compose.
 
